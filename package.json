@@ -1,0 +1,17 @@
+{
+  "name": "growthbook-simulator",
+  "description": "TypeScript",
+  "main": "src/index.ts",
+  "devDependencies": {
+    "@types/jest": "^23.0.0"
+  },
+  "dependencies": {
+    "@growthbook/growthbook": "0.23.0",
+    "@growthbook/growthbook-react": "0.12.0",
+    "class-transformer": "0.2.0",
+    "crypto": "1.0.1",
+    "reflect-metadata": "0.1.12",
+    "util": "0.12.4"
+  },
+  "keywords": []
+}
